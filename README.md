@@ -7,4 +7,4 @@ For security reasons you will need a user for backup on your distant server. Thi
 
   sudo adduser backup_usr     //create the user 
 
-We will need to create a jail with the 
+We will need to create a jail with the chroot tool. 
